@@ -1,6 +1,6 @@
 # Little Lemon Restaurant API
 
-# A Django REST Framework-based API for managing restaurant operations at Little Lemon. This capstone project allows you to demonstrate back-end development skills by solving real-world problems, such as building RESTful APIs for menu management, table bookings, and user authentication.  
+A Django REST Framework-based API for managing restaurant operations at Little Lemon. This capstone project allows you to demonstrate back-end development skills by solving real-world problems, such as building RESTful APIs for menu management, table bookings, and user authentication.  
 ---
 
 ## Table of Contents
